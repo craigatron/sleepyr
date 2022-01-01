@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "sleepyr"
-version = "0.0.1"
+version = "0.0.2"
 description = "Python Sleeper API client"
 authors = ["Craig Martek <craigmartek@gmail.com>"]
 license = "MIT"
+repository = "https://github.com/craigatron/sleepyr"
+homepage = "https://github.com/craigatron/sleepyr"
 
 [tool.poetry.dependencies]
 python = "^3.9"
